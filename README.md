@@ -1,10 +1,12 @@
 # Survival Death Valley
-This is a Two Dimensional Raceing Car Game developed by using pygame module in python.
+This is a Two Dimensional Raceing Car Game developed by using pygame module in python.\
+It was developed in Semester 1.
 
 # Instructions to run:
-To run this code, the user need to have:\
-Python, \
-pygame module in python installed in his/her system.\
+To run this code, the user need to have:
+1) Python, 
+2) Pygame module in python installed in his/her system.
+
 After running the code ,a Window will pop out which has buttons displayed. Clicking any button will perform the required action.
 Use keyboard buttons to play the game and read the instructions to know the game rules and controls 
 
